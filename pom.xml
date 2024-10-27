@@ -9,7 +9,6 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>dev.struchkiov.example</groupId>
     <artifactId>server-jwt</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
