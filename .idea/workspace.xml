@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2017070-f5c8-4176-9e70-e4c1ffa12a27" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/daudm/OneDrive/Рабочий стол/idea project/jwt-spring/jwt-service",
+    "last_opened_file_path": "C:/Users/daudm/OneDrive/Рабочий стол/idea project/JavaTaskkk",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -116,7 +116,8 @@
       <updated>1729955501820</updated>
       <workItem from="1729955502989" duration="889000" />
       <workItem from="1730022253370" duration="3856000" />
-      <workItem from="1730026352698" duration="655000" />
+      <workItem from="1730026352698" duration="1001000" />
+      <workItem from="1730384176349" duration="34000" />
     </task>
     <servers />
   </component>
